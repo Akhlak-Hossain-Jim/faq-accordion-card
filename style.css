@@ -25,7 +25,7 @@ body {
   font-family: "Kumbh Sans", sans-serif;
   min-height: 100vh;
   max-width: 100vw;
-  background: linear-gradient(to top, var(--soft-violet), var(--soft-blue));
+  background: linear-gradient(to top, var(--soft-blue), var(--soft-violet));
   display: flex;
   align-items: center;
   justify-content: center;
